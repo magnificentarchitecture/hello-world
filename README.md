@@ -1,2 +1,7 @@
-# hello-world
-此存储库用于练习GitHab Flow
+#incldue <iostream>
+using namespace std;
+int main()
+{
+cout << "Hello world!" << endl;
+return 0;
+}
